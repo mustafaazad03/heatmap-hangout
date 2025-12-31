@@ -1,0 +1,4 @@
+project_id = "dticqvjvmnfomzjmccjx"
+
+[functions.github-heatmap]
+verify_jwt = false
